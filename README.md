@@ -21,10 +21,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Automação e Embarcados  
+### 🔌 IoT e Embarcados  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-1E4C94?style=for-the-badge&logo=siemens&logoColor=white)  
-*(Experiência com sistemas de controle industrial e prototipagem)*  
+![ESP](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)  
+*(Experiência com prototipagem IoT, sensores e comunicação wireless)*  
 
 ### 🛠️ Ferramentas  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,11 +32,21 @@
 
 ---
 
+## 📌 Projetos Destacados  
+
+🔹 **[Nome do Projeto 1](link)** - Descrição breve (ex: "Sistema IoT com ESP32 para monitoramento ambiental")  
+🔹 **[Nome do Projeto 2](link)** - Descrição breve  
+🔹 **[Nome do Projeto 3](link)** - Descrição breve  
+
+*(Substitua pelos seus projetos reais com links!)*  
+
+---
+
 ## 📈 Estatísticas do GitHub  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yanchagas04&show_icons=true&theme=dracula)  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yanchagas04&layout=compact&theme=dracula)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yanchagas04&layout=compact&theme=dracula) 
 
 ---
 
