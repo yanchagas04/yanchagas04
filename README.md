@@ -8,7 +8,7 @@
 - 🎓 **Formando em Engenharia de Computação** (7º semestre)  
 - 💼 **Estagiário em Automação** no [Senai Cimatec](https://www.senaicimatec.com.br)  
 - 🌱 Atualmente explorando **automação industrial, IoT e desenvolvimento de software**  
-- 📫 Como me alcançar: **yanchagas04@gmail.com**  
+- 📫 Como me alcançar: **yanchagas2004@gmail.com**  
 
 ---
 
