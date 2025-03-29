@@ -32,16 +32,6 @@
 
 ---
 
-## 📌 Projetos Destacados  
-
-🔹 **[Nome do Projeto 1](link)** - Descrição breve (ex: "Sistema IoT com ESP32 para monitoramento ambiental")  
-🔹 **[Nome do Projeto 2](link)** - Descrição breve  
-🔹 **[Nome do Projeto 3](link)** - Descrição breve  
-
-*(Substitua pelos seus projetos reais com links!)*  
-
----
-
 ## 📈 Estatísticas do GitHub  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=yanchagas04&show_icons=true&theme=dracula)  
