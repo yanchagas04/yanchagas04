@@ -33,6 +33,7 @@
 ### 🗃️ Bancos de Dados  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492)
 
 ### 🔌 IoT e Embarcados  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
