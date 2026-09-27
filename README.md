@@ -6,7 +6,7 @@
 ## 🚀 Sobre Mim
 
 - � **Formando em Engenharia de Computação** (10º semestre)  
-- 💼 **Desenvolvedor ABAP Jr.** na [SapienEx]([https://www.senaicimatec.com.br](https://sapienex.com.br/))  
+- 💼 **Desenvolvedor ABAP Jr.** na [SapienEx](https://sapienex.com.br/)  
 - 🌱 Atualmente explorando **Desenvolvimento ABAP e FullStack**  
 - 📫 Como me alcançar: **yanchagas2004@gmail.com**  
 
