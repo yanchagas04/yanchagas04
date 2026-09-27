@@ -5,9 +5,9 @@
 
 ## 🚀 Sobre Mim
 
-- � **Formando em Engenharia de Computação** (9º semestre)  
-- 💼 **Estagiário em Automação** no [Senai Cimatec](https://www.senaicimatec.com.br)  
-- 🌱 Atualmente explorando **automação industrial, IoT e desenvolvimento FullStack**  
+- � **Formando em Engenharia de Computação** (10º semestre)  
+- 💼 **Desenvolvedor ABAP Jr.** na [SapienEx]([https://www.senaicimatec.com.br](https://sapienex.com.br/))  
+- 🌱 Atualmente explorando **Desenvolvimento ABAP e FullStack**  
 - 📫 Como me alcançar: **yanchagas2004@gmail.com**  
 
 ---
