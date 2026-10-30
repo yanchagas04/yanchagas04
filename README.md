@@ -26,6 +26,7 @@
 | Cargo | Empresa | Período |
 |-------|---------|---------|
 | **Desenvolvedor ABAP Jr.** | [SapienEx](https://sapienex.com.br/) | Atual |
+| **Estagiário** | Senai Cimatec | Anterior |
 
 <!-- Cole aqui as demais experiências do LinkedIn (estágios, projetos, etc.) -->
 
