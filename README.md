@@ -93,12 +93,3 @@
 - 📧 **E-mail**: yanchagas2004@gmail.com
 - 🌐 **Portfólio**: [Portifólio](https://portifolio-yanchagas04s-projects.vercel.app/)
 
----
-
-<div align="center">
-
-⭐️ *"Transformar ideias em soluções é a essência da Engenharia!"*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
-
-</div>
